@@ -1,0 +1,40 @@
+<?xml version='1.0' ?>
+<monitoring_v4 id="monitoring_v4" version="4">
+    <formhub>
+        <uuid>404a71731aa547ee9d39a00990045502</uuid>
+    </formhub>
+    <start>2014-10-14T17:05:58.368-04</start>
+    <end>2014-10-14T17:12:37.005-04</end>
+    <today>2014-10-14</today>
+    <deviceid>352735060991515</deviceid>
+    <location>2.668252307921648 -59.97386064380407 93.70000000000005 5.0</location>
+    <exact_location>yes</exact_location>
+    <picture>1413320831333.jpg</picture>
+    <caption>Crossing. </caption>
+    <region>south_central</region>
+    <village>sawari_wao</village>
+    <area>lower_takatu</area>
+    <placename>Bai wao paawa</placename>
+    <landtitle>no</landtitle>
+    <customary>yes</customary>
+    <happening>crossing</happening>
+    <crossing_group>
+        <crossing_active>yes</crossing_active>
+        <crossing>crossing</crossing>
+    </crossing_group>
+    <who />
+    <permission />
+    <landtype />
+    <impacts />
+    <other_info>A very active motor vehicles and bycicle crossing</other_info>
+    <people>angelbert_johnny harold_s_isaacs other</people>
+    <people_other>Phil berth. S.</people_other>
+    <council_informed />
+    <scpda_request />
+    <public />
+    <meta>
+    <instanceID>uuid:857a331e-0568-41e8-8e84-3edc83fd5f3a</instanceID>
+    <instanceName>Oct-14 17:05 sawari_wao crossing</instanceName>
+    </meta>
+</monitoring_v4>
+

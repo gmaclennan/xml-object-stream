@@ -1,0 +1,28 @@
+{
+  "name": "xml-object-stream",
+  "version": "0.0.1",
+  "description": "streaming parser of xml to objects using expat",
+  "main": "index.js",
+  "dependencies": {
+    "node-expat": "^2.3.4",
+    "readable-stream": "^1.0.33",
+    "through2": "^0.6.3",
+    "xtend": "^4.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gmaclennan/xml-object-stream.git"
+  },
+  "keywords": [
+    "xml",
+    "stream",
+    "object"
+  ],
+  "author": "Gregor MacLennan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmaclennan/xml-object-stream/issues"
+  },
+  "homepage": "https://github.com/gmaclennan/xml-object-stream"
+}
